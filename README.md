@@ -1,5 +1,5 @@
 This is the bash script I quickly put together when I needed to do batch conversion 
-of large images into smaller ones to.
+of large images into smaller ones.
 
 
 It uses ImageMagick to convert the images. I do realise that there's a similar 
